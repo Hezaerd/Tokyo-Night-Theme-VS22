@@ -1,0 +1,13 @@
+C:\Users\Admin\source\VSIX\TokyoNight\TokyoNight\bin\Release\tokyonight.pkgdef
+C:\Users\Admin\source\VSIX\TokyoNight\TokyoNight\bin\Release\TokyoNight.vsix
+C:\Users\Admin\source\VSIX\TokyoNight\TokyoNight\bin\Release\extension.vsixmanifest
+C:\Users\Admin\source\VSIX\TokyoNight\TokyoNight\obj\Release\TokyoNight.csproj.AssemblyReference.cache
+C:\Users\Admin\source\VSIX\TokyoNight\TokyoNight\obj\Release\_EmptyResource.resources
+C:\Users\Admin\source\VSIX\TokyoNight\TokyoNight\obj\Release\TokyoNight.csproj.GenerateResource.cache
+C:\Users\Admin\source\VSIX\TokyoNight\TokyoNight\obj\Release\TokyoNight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\VSIX\TokyoNight\TokyoNight\obj\Release\TokyoNight.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\VSIX\TokyoNight\TokyoNight\obj\Release\TokyoNight.dll
+C:\Users\Admin\source\VSIX\TokyoNight\TokyoNight\obj\Release\TokyoNight.pdb
+C:\Users\Admin\source\VSIX\TokyoNight\TokyoNight\obj\Release\extension.vsixmanifest
+C:\Users\Admin\source\VSIX\TokyoNight\TokyoNight\obj\Release\files.json
+C:\Users\Admin\source\VSIX\TokyoNight\TokyoNight\obj\Release\createTemplateManifests.cache
